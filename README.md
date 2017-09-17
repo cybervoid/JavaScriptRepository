@@ -12,7 +12,15 @@ Repository contents
 CardsCloneReact
 </td>
 <td>
-A clone for cards against humanity. Uses React.js
+A clone for cards against humanity. Uses React.js. This was created as a part of the Udemy Course <a href="https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/">React.js: Building Production Ready Apps, Start to Finish</a>
+</td>
+</tr>
+<tr>
+<td>
+ToDoReact
+</td>
+<td>
+A simple ToDo application using React. This was created as a part of the Udemy Course <a href="https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/">React.js: Building Production Ready Apps, Start to Finish</a>
 </td>
 </tr>
 <table>
