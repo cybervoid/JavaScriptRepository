@@ -23,4 +23,18 @@ ToDoReact
 A simple ToDo application using React. This was created as a part of the Udemy Course <a href="https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/">React.js: Building Production Ready Apps, Start to Finish</a>
 </td>
 </tr>
+<tr>
+<td>
+ReallySimpleReacy
+</td>
+<td>
+A really simple react program for getting feet wet with React.
+</td>
+</tr>
 <table>
+
+<h3>Libraries and packages </h3>
+<dl>
+<dd>Bower</dd>
+<dt>npm install -g bower</dt>
+</dl>
