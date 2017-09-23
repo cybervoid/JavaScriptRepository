@@ -37,4 +37,10 @@ A really simple react program for getting feet wet with React.
 <dl>
 <dt>Bower</dt>
 <dd>npm install -g bower</dd>
+<dt>React</dt>
+<dd>bower install react</dd>
+<dt>babel (for JSX)</dt>
+<dd>bower install babel</dd>
+<dt>Webserver</dt>
+<dd>npm install -g live-server</dd>
 </dl>
