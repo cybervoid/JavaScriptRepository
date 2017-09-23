@@ -35,6 +35,6 @@ A really simple react program for getting feet wet with React.
 
 <h3>Libraries and packages </h3>
 <dl>
-<dd>Bower</dd>
-<dt>npm install -g bower</dt>
+<dt>Bower</dt>
+<dd>npm install -g bower</dd>
 </dl>
