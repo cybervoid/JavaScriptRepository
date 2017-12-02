@@ -14,9 +14,9 @@ console.log(_.isString("cybervoid"));
 var uniqueArray = _.uniq(['cybervoid', 'cybervoid', 'tommy', 'sally', 'sara', 1, 1, 2, '1', 3, 4]);
 console.log(uniqueArray);
 
+
 if(enableCreateFile == true){
-  if(useCallback == true)
-  {
+  if(useCallback == true) {
     //run this as a callback function
     fs.appendFile("greetingsAsCallback.txt", "Hello from callback function!", function(err){
       if(err){

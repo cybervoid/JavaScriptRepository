@@ -19,9 +19,9 @@ A simple note app
 <h3>Node Modules</h3>
 <dl>
 <dt>NoteApp</dt>
-<dd>File System API (see below)</dd>
+<dd>Using requiren, NPM, file systems</dd>
 <dt>WeatherApp</dt>
-<dd>tba</dd>
+<dd>Asynchronous non-blocking application</dd>
 </dl>
 <br />
 <h3>Useful Links</h3>
