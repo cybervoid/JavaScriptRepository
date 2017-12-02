@@ -23,3 +23,9 @@ A simple note app
 <dt>WeatherApp</dt>
 <dd>tba</dd>
 </dl>
+<br />
+<h3>Useful Links</h3>
+<dl>
+<dt><a href="https://nodejs.org/api/">https://nodejs.org/api/</a></dt>
+<dd>A compilation of various available Node libraries and APIs</dd>
+</dl>
