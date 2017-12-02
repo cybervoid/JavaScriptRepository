@@ -30,12 +30,17 @@ A simple note app
 <dd>A compilation of various available Node libraries and APIs</dd>
 <dd>Example -> <a href="https://nodejs.org/api/os.html">OS</a></dd>
 <dd>Example -> <a href="https://nodejs.org/api/fs.html">File System </a>-> <a href="https://nodejs.org/api/fs.html#fs_fs_appendfile_file_data_options_callback">fs.appendFile(string, string)</a></dd>
+<dt><a href="https://www.npmjs.com/">NPM JS API Library</a></dt>
+<dd>Example, search "lodash"</dd>
 </dl>
 
-<h3>NPM commands</h3>
+<h3>NPM Commands</h3>
 <dl>
-<dt>npm -v</dt>
-<dd>npm version</dd>
+<dt>Get NPM Version</dt>
+<dd>npm -v</dd>
 <dt>Creating an npm package</dt>
 <dd>npm init</dd>
+<dt>Installing a module</dt>
+<dd>(??) npm i -g npm</dd>
+<dd>npm i --save lodash  (save flag updates the contents of the json file)</dd>
 </dl>
