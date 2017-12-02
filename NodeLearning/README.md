@@ -1,5 +1,5 @@
-# ReactLearn
-A repository for improving working knowledge of Node JS
+# NodeLearning
+A repository directory for improving working knowledge of Node JS
 
 <table>
 <tr>

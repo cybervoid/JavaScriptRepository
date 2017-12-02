@@ -1,5 +1,5 @@
 # JavaScriptRepository
-A repository for improving working knowledge of javascript
+A repository for general javascript related development.
 
 <table>
 <tr>
@@ -23,15 +23,3 @@ A repository for Learning <i>Node JS</i>, as part of an on-going long term learn
 </td>
 </tr>
 <table>
-
-<h3>Libraries and packages </h3>
-<dl>
-<dt>Bower</dt>
-<dd>npm install -g bower</dd>
-<dt>React</dt>
-<dd>bower install react</dd>
-<dt>babel (for JSX)</dt>
-<dd>bower install babel</dd>
-<dt>Webserver</dt>
-<dd>npm install -g live-server</dd>
-</dl>

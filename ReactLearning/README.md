@@ -1,5 +1,5 @@
 # ReactLearn
-A repository for improving working knowledge of javascript
+A repository directory for improving working knowledge of javascript
 
 <table>
 <tr>
