@@ -1,6 +1,9 @@
 console.log("Starting Note app");
 
+//Require a built-in node application
 const fs = require('fs'); //pass in the name of the module we'd like to require
+const myCode = require('./myjavascript.js'); //code ive written
+const thirdPartyCode = require(''); //code from npm
 
 useCallback = false;
 

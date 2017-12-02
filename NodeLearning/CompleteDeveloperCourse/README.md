@@ -8,7 +8,7 @@ Directory contents
 </tr>
 <tr>
 <td>
-<a href="./NoteApp">NoteApp</a>
+<a href="./NoteApp">NoteApp (Section 3)</a>
 </td>
 <td>
 A simple note app
@@ -30,4 +30,12 @@ A simple note app
 <dd>A compilation of various available Node libraries and APIs</dd>
 <dd>Example -> <a href="https://nodejs.org/api/os.html">OS</a></dd>
 <dd>Example -> <a href="https://nodejs.org/api/fs.html">File System </a>-> <a href="https://nodejs.org/api/fs.html#fs_fs_appendfile_file_data_options_callback">fs.appendFile(string, string)</a></dd>
+</dl>
+
+<h3>NPM commands</h3>
+<dl>
+<dt>npm -v</dt>
+<dd>npm version</dd>
+<dt>Creating an npm package</dt>
+<dd>npm init</dd>
 </dl>
