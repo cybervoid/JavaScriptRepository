@@ -41,6 +41,15 @@ A simple note app
 <dt>Creating an npm package</dt>
 <dd>npm init</dd>
 <dt>Installing a module</dt>
-<dd>(??) npm i -g npm</dd>
+<dd>(g is a global flag) npm i -g npm</dd>
 <dd>npm i --save lodash  (save flag updates the contents of the json file)</dd>
+</dl>
+
+<h3>Nodemon Commands</h3>
+<dl>
+<dt>Nodeman will restart app.js server automatically after new changes are saved</dt>
+<dd>npm i -g nodemon (global install)</dd>
+<dd>npm i --save nodemon (global install)</dd>
+<dt>starting nodeman for a project</dt>
+<dd>nodeman app.js</dd>
 </dl>
