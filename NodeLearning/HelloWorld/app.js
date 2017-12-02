@@ -7,5 +7,3 @@ http.createServer(function(request, response){
 }).listen(3000);
 
 console.log("server is running on 127.0.0.1:3000");
-//to run the file, run this in a terminal (in this directory!)
-//node app.js
