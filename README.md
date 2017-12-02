@@ -9,26 +9,17 @@ Repository contents
 </tr>
 <tr>
 <td>
-CardsCloneReact
+<a href="./NodeLearning">NodeLearning</a>
 </td>
 <td>
-A clone for cards against humanity. Uses React.js. This was created as a part of the Udemy Course <a href="https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/">React.js: Building Production Ready Apps, Start to Finish</a>
-</td>
-</tr>
-<tr>
-<td>
-ToDoReact
-</td>
-<td>
-A simple ToDo application using React. This was created as a part of the Udemy Course <a href="https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/">React.js: Building Production Ready Apps, Start to Finish</a>
+A repository for Learning <i>Node JS</i>, as part of an on-going long term learning project to complement ambitions for full stack development
 </td>
 </tr>
 <tr>
 <td>
-ReallySimpleReacy
+<a href="./ReactLearning">ReactLearning</a>
 </td>
-<td>
-A really simple react program for getting feet wet with React.
+<td>A repository for Learning <i>React.js</i>, as part of an on-going long term learning project to complement ambitions for full stack development
 </td>
 </tr>
 <table>
