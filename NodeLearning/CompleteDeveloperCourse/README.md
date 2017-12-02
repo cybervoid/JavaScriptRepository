@@ -24,8 +24,11 @@ A simple note app
 <dd>tba</dd>
 </dl>
 <br />
+<br />
 <h3>Useful Links</h3>
 <dl>
-<dt><a href="https://nodejs.org/api/">https://nodejs.org/api/</a></dt>
+<dt><a href="https://nodejs.org/api/">Node JS API Library</a></dt>
 <dd>A compilation of various available Node libraries and APIs</dd>
+<dd>Example -> <a href="https://nodejs.org/api/os.html">OS</a></dd>
+<dd>Example -> <a href="https://nodejs.org/api/fs.html">File System </a>-> <a href="https://nodejs.org/api/fs.html#fs_fs_appendfile_file_data_options_callback">fs.appendFile()</a></dd>
 </dl>
