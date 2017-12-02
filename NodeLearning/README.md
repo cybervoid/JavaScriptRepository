@@ -9,7 +9,7 @@ Folder contents
 </tr>
 <tr>
 <td>
-<a href="./CompleteDeveloperCourse>CompleteDeveloperCourse</a>
+<a href="./CompleteDeveloperCourse">CompleteDeveloperCourse</a>
 </td>
 <td>
 A repository folder for learning Node JS. This was created as a part of the Udemy Course <a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview">The Complete Node.js Developer Course (2nd edition)</a>
