@@ -19,16 +19,15 @@ A simple note app
 <h3>Node Modules</h3>
 <dl>
 <dt>NoteApp</dt>
-<dd>npm install -g bower</dd>
+<dd>File System API (see below)</dd>
 <dt>WeatherApp</dt>
 <dd>tba</dd>
 </dl>
-<br />
 <br />
 <h3>Useful Links</h3>
 <dl>
 <dt><a href="https://nodejs.org/api/">Node JS API Library</a></dt>
 <dd>A compilation of various available Node libraries and APIs</dd>
 <dd>Example -> <a href="https://nodejs.org/api/os.html">OS</a></dd>
-<dd>Example -> <a href="https://nodejs.org/api/fs.html">File System </a>-> <a href="https://nodejs.org/api/fs.html#fs_fs_appendfile_file_data_options_callback">fs.appendFile()</a></dd>
+<dd>Example -> <a href="https://nodejs.org/api/fs.html">File System </a>-> <a href="https://nodejs.org/api/fs.html#fs_fs_appendfile_file_data_options_callback">fs.appendFile(string, string)</a></dd>
 </dl>
