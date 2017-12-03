@@ -53,3 +53,13 @@ A simple note app
 <dt>starting nodeman for a project</dt>
 <dd>nodeman app.js</dd>
 </dl>
+
+### Notes
+
+Udemy Lecture 27 describes the call stack.
+
+
+<dl>
+<dt>Google Maps API<a href="https://maps.googleapis.com/maps/api/geocode/json">Endpoint</a></dt>
+<dd>Maps API usage <a href="https://maps.googleapis.com/maps/api/geocode/json?address=1301%20lombard%20street%20philadelphia">Example</a></dd>
+</dl>

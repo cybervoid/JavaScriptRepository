@@ -3,7 +3,10 @@ var getUser = (id, callback) => {
     id: id,
     name: 'Chuck'
   };
-  callback(user);
+  //simulate a delay
+  setTimeout(() => {
+    callback(user);
+  }, 3000);
 };
 uid = 10;
 
