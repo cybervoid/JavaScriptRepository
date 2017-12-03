@@ -11,7 +11,15 @@ Directory contents
 <a href="./NoteApp">NoteApp (Section 3)</a>
 </td>
 <td>
-A simple note app
+A simple note app for learning how to use require()
+</td>
+</tr>
+<tr>
+<td>
+<a href="./WeatherApp">WeatherApp (Section 4)</a>
+</td>
+<td>
+Asynchronous non-blocking application for getting weather.
 </td>
 </tr>
 </table>
@@ -19,9 +27,10 @@ A simple note app
 <h3>Node Modules</h3>
 <dl>
 <dt>NoteApp</dt>
-<dd>Using requiren, NPM, file systems</dd>
+<dd>npm i --save lodash</dd>
+<dd>npm i -g nodemon  (debug only, do not use for release)</dd>
 <dt>WeatherApp</dt>
-<dd>Asynchronous non-blocking application</dd>
+<dd>npm install request@2.73.0   (@ will specify a version)</dd>
 </dl>
 <br />
 <h3>Useful Links</h3>
