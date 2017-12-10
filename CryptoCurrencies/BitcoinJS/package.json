@@ -1,0 +1,11 @@
+{
+  "name": "bitcoinjs",
+  "version": "1.0.0",
+  "description": "Bitcoin related code exploration.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cybervoid",
+  "license": "ISC"
+}
