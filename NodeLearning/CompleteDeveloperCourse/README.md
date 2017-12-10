@@ -34,9 +34,12 @@ Asynchronous non-blocking application for getting weather. To use, command: node
 <dd>npm install yargs --save</dd>
 </dl>
 
-<h3>Exploring a node feature</h3>
-<dl><dt>Start a node terminal.</dt>
+<h3>Exploring a node features and functions</h3>
+<dl>
+<dt>Start a node terminal.</dt>
+<dt>Explore the encode and decode URI methods</dt>
 <dd>encodeURIComponent('1301 lombard street')</dd>
+<dd>decodeURIComponent('1301%20lombard%20street')</dd>
 </dl>
 
 
