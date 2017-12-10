@@ -12,10 +12,13 @@ const argv = yargs
   .help()
   .argv;
 
+console.log(argv);
+u = 'https://maps.googleapis.com/maps/api/geocode/json?address='+ encodeURIComponent(argv.a)+'philadelphia';
+console.log(u);
 request({
-  url: "https://maps.googleapis.com/maps/api/geocode/json?address=1301%20lombard%20street%20philadelphia",
+  url: u,
   json: true
 }, (error, response, body) => {
-  //console.log(JSON.stringify(response, undefined, 2));
-  console.log(`Address: ${body.results[0].formatted_address}`);
+  console.log(JSON.stringify(response, undefined, 2));
+  //console.log(`Address: ${body.results[0].formatted_address}`);
 });
