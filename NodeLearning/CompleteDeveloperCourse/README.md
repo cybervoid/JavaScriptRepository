@@ -21,6 +21,12 @@ A simple note app for learning how to use require()
 <td>
 Asynchronous non-blocking application for getting weather. To use, command: node app.js --address '1301 lombard street'
 </td>
+<td>
+<a href="./ExpressWebserverApp">ExpressWebserverApp (Section 5)</a>
+</td>
+<td>
+A web server with express.
+</td>
 </tr>
 </table>
 
