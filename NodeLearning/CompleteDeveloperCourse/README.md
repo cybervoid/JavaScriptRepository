@@ -19,7 +19,7 @@ A simple note app for learning how to use require()
 <a href="./WeatherApp">WeatherApp (Section 4)</a>
 </td>
 <td>
-Asynchronous non-blocking application for getting weather.
+Asynchronous non-blocking application for getting weather. To use, command: node app.js --address '1301 lombard street'
 </td>
 </tr>
 </table>
@@ -33,7 +33,13 @@ Asynchronous non-blocking application for getting weather.
 <dd>npm install request@2.73.0   (\@2.73.0 will specify a version)</dd>
 <dd>npm install yargs --save</dd>
 </dl>
-<br />
+
+<h3>Exploring a node feature</h3>
+<dl><dt>Start a node terminal.</dt>
+<dd>encodeURIComponent('1301 lombard street')</dd>
+</dl>
+
+
 <h3>Useful Links</h3>
 <dl>
 <dt><a href="https://nodejs.org/api/">Node JS API Library</a></dt>
@@ -53,6 +59,8 @@ Asynchronous non-blocking application for getting weather.
 <dt>Installing a module</dt>
 <dd>(g is a global flag) npm i -g npm</dd>
 <dd>npm i --save lodash  (save flag updates the contents of the json file)</dd>
+<dt>Update npm</dt>
+<dd>npm i -g npm</dd>
 </dl>
 
 <h3>Nodemon Commands</h3>
