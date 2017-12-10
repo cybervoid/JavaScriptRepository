@@ -30,7 +30,8 @@ Asynchronous non-blocking application for getting weather.
 <dd>npm i --save lodash</dd>
 <dd>npm i -g nodemon  (debug only, do not use for release)</dd>
 <dt>WeatherApp</dt>
-<dd>npm install request@2.73.0   (@ will specify a version)</dd>
+<dd>npm install request@2.73.0   (\@2.73.0 will specify a version)</dd>
+<dd>npm install yargs --save</dd>
 </dl>
 <br />
 <h3>Useful Links</h3>
